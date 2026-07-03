@@ -1,5 +1,7 @@
-## Hi there 👋
+![Fadhil Saputro](/img/benner.png)
 
+- 🔭 I’m currently Learning Laravel
+- 🌱 I’m currently Learning Flutter
 <!--
 **Knzyyyy/Knzyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
