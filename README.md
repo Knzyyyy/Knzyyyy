@@ -1,10 +1,10 @@
 ![Fadhil Saputro](/img/benner2.png)
 💻 Fullstack Developer
 
-🚀 Building web & mobile applications
-🌱 Currently learning Laravel & Flutter
-🤖 Exploring AI-powered development
-📚 Always learning new technologies
+- 🚀 Building web & mobile applications
+- 🌱 Currently learning Laravel & Flutter
+- 🤖 Exploring AI-powered development
+- 📚 Always learning new technologies
 
 
 ##### Skills 
